@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Explore",
+  "description": "A high-fidelity client-side replica of Instagram featuring Explore, Feed, and Profile tabs, story viewers, interactive likes and comments, search filtering, and custom post uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
